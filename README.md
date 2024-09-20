@@ -1,0 +1,1 @@
+Ceci est un exercice solo de création de repo git et d'utilisation des commit.
